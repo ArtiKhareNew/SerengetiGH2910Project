@@ -8,7 +8,13 @@ packages:
   gitUsername: ArtiKhareNew
   gitBranch: main
 - name: AzRepoMultiplyPackage
+  version: "4.0"
   gitServerName: srcCtrl_AzRepos_Arti
   gitUrl: https://dev.azure.com/ArtiKhare/AzRepoMultiplyPackage/_git
   gitUsername: ArtiKhare
   gitBranch: main
+- name: upperfspackage
+  gitServerName: srcCtrl_shared_bitbucket_Arti
+  gitUrl: https://bitbucket.org/testartiibm
+  gitUsername: artikhare
+  gitBranch: master
